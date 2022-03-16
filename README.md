@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishnu vardhan D K</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
+<p>A full-stack web developer with a specialization in MERN stack. Innovative and task driven professional, passionate about building user friendly products and solving problems, a strong believer in learning through experiences. Ability to work in a team with strong communication skills . Looking forward to working in a challenging organisation which leads to overall growth and development alongside the organisation.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu642&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu642" /> </p>
 
 - 🔭 I’m currently learning on **React**
