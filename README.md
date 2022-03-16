@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu642&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu642" /> </p>
 
-- 🔭 I’m currently learning on **React**
+- 🔭 I’m currently learning on **MERN Stack**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 💬 Ask me about **react,javascript,mongodb**
 
-- 📫 How to reach me **dkvishnuvardhan94@gmail.com**
+- 📫 reach me at **dkvishnuvardhan94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
